@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Консольный Кран 5т</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+margin: 0;
+padding: 20px;
+}
+
+h1 {
+color: #333;
+text-align: center;
+}
+
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 20px;
+}
+
+th, td {
+padding: 10px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+}
+
+ul {
+list-style-type: none;
+padding: 0;
+}
+
+li {
+margin-bottom: 8px;
+}
+
+strong {
+color: #3498db;
+}
+</style>
+</head>
+<body>
+
+<h1>Мощь и Надежность: Консольный Кран 5т</h1>
+
+<table>
+<tr>
+<th>Основной текст</th>
+<td>Откройте новые горизонты эффективности с нашим консольным краном грузоподъемностью 5 тонн. Высокоточные технологии, надежность в каждом движении. Наш кран – ключ к вашему успешному будущему.</td>
+</tr>
+<tr>
+<th>Изображение</th>
+<td><img src="your_crane_image.jpg" alt="Консольный Кран 5т"></td>
+</tr>
+<tr>
+<th>Выделенные особенности</th>
+<td>
+<ul>
+<li><strong>Надежность:</strong> Технологии, проверенные временем.</li>
+<li><strong>Мощность:</strong> Грузоподъемность 5 тонн – идеально для различных задач.</li>
+<li><strong>Точность:</strong> Высокоточное управление для точного позиционирования груза.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Контактная информация</th>
+<td>
+<ul>
+<li>Телефон: [Ваш номер телефона]</li>
+<li>Электронная почта: [Ваш адрес электронной почты]</li>
+<li>Веб-сайт: [Ваш веб-сайт]</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Лозунг</th>
+<td>"Поднимите свой бизнес на новый уровень с консольным краном 5т – вашим надежным партнером в подъеме грузов!"</td>
+</tr>
+<tr>
+<th>Лого</th>
+<td><img src="your_logo_image.png" alt="Логотип"></td>
+</tr>
+</table>
+
+</body>
+</html>
